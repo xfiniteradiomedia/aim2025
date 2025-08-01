@@ -1,0 +1,1 @@
+Initial AIM2025 app structure and core screens
