@@ -1,0 +1,1 @@
+lib/screens/privacy_terms_screen.dart

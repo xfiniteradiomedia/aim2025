@@ -1,1 +1,1 @@
-Initial AIM2025 app structure and core screens
+lib/screens/friends_list_screen.dart
